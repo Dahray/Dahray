@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dahray
-- 💞️ I’m looking to collaborate on data Analysis and engineering project, Fullstack web development
+- 💞️ I’m looking to collaborate on data Analytics project, Software development
 - 📫 How to reach me via my email dahrayafolabi@gmail.com and whatsapp +2348127811050
 
 <!---
